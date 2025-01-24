@@ -15,7 +15,7 @@ Discussion:
 
   From this lab activity, I have learned how to build a web app using Angular and Firebase, which is called a Friendly Chat app. Through the Friendly Chat app codelab, I discovered some new skills though it might not be some kind of fancy skills. I also learned how to navigate the challenges of creating a functional, real-time chat application as I delve into the world of Flutter and Firebase.
 
-	Initially, setting up the development environment was simple so far, but integrating Flutter with Firebase proved to be a bit daunting. Moreover, most of the Firebase features require me to pay a subscription fee. As a student, I don't really want to withdraw any money from my already nonexistent amount of account balance.
+Initially, setting up the development environment was simple so far, but integrating Flutter with Firebase proved to be a bit daunting. Moreover, most of the Firebase features require me to pay a subscription fee. As a student, I don't really want to withdraw any money from my already nonexistent amount of account balance.
 Hence, I ended up using only free tools, which have very limited options. Other than that, I had to skip many codelab that use subscriptions. But obviously, the app still could be built, so I just went with it with every might.
 
  As I was doing this project, I encountered some new things I had never learned in my previous classes, such as creating repositories and updating commits in GitHub. In fact, this is my very first time using GitHub! There was so much to learn, from understanding how the Firebase works, to debugging complex issues with the help of my classmates and lecturer. 
