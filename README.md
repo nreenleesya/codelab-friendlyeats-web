@@ -1,9 +1,13 @@
-Name: Nureen Aleesya Binti Azlan
-Student id: 2023406908
-Group: CDCS2703B1
-Lecturer Name: Sir Muhammad Atif Bin Ramlan
+# Name: 
+Nureen Aleesya Binti Azlan
+# Student id:
+2023406908
+# Group:
+CDCS2703B1
+# Lecturer Name:
+Sir Muhammad Atif Bin Ramlan
 
-Project Background: 
+# Project Background: 
 
 1. Creating web applications by implementing and deploying a chat client using Firebase products and services.
 2. Building a web app using Angular and Firebase
@@ -11,7 +15,7 @@ Project Background:
 4. Authenticating users using Firebase Authentication
 5. Deploying the web app on Firebase App Hosting
 
-Discussion:
+# Discussion:
 
   From this lab activity, I have learned how to build a web app using Angular and Firebase, which is called a Friendly Chat app. Through the Friendly Chat app codelab, I discovered some new skills though it might not be some kind of fancy skills. I also learned how to navigate the challenges of creating a functional, real-time chat application as I delve into the world of Flutter and Firebase.
 
